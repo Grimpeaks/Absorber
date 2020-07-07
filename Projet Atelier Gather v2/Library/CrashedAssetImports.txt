@@ -1,0 +1,2 @@
+Assets/EnnemiV1/Prefabs/Boss Squelette - TUTORIEL.prefab
+Assets/EnnemiV1/Prefabs/Boss Squelette.prefab
